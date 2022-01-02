@@ -1,0 +1,119 @@
+#div-1{
+    background-color: #F1F1F1;
+    height: 80px;
+}
+
+#logo{
+    height: 43px;
+    width: 122px;
+    margin :20px;
+}
+
+body{
+    margin:0;
+    font-family: Arial,sans-serif;
+}
+
+#Link, #Link:active, #Link.focus{
+    text-decoration: none;
+    color: inherit;
+    font-size: 18px;
+    margin-right: 0;
+    position:relative;
+    bottom:35px;
+    left:1570px;
+}
+#Link:hover{
+    text-decoration: underline;
+}
+
+#Advanced{
+    font-size: 26px;
+    font-weight: 50;
+    color: #D93025;
+    margin-left: 45px;
+}
+
+#div-2{
+    border-bottom: 1px solid #e8e8e8;
+    padding: 8px;
+}
+
+p{
+    margin-bottom:15px;
+}
+
+thead{
+    font-size: 22px;
+}
+
+#form-div{
+    margin:30px 47px;
+    border-bottom: 1px solid #e8e8e8;
+}
+
+th,td{
+    padding:10px;
+}
+
+.textinput,.textinput:active{
+    outline: none;
+    padding-left:10px;
+    width:750px;
+    height:34px;
+    font-size: 20px;
+    border-radius: 2px;
+    border-top:1px solid #c0c0c0;
+    border-bottom: 1px solid #d9d9d9;
+    border-left: 1px solid #d9d9d9;
+    border-right: 1px solid #d9d9d9;
+}
+.textinput:focus{
+    border:1px solid #4d90fe;
+    width:750px;
+    height:34px;
+    font-size: 20px;
+    border-radius: 2px;
+}
+
+#search-button{
+    height:39px;
+    width:170px;
+    color:#ffffff;
+    background-color: #4d90fe;
+    font-weight: bold;
+    font-size: 15px;
+    border-radius: 3px;
+    border:1px solid #2F5BB7;
+}
+#search-button:hover{
+    background-color: #357AE8;
+}
+#button-td{
+    text-align: right;
+    padding-top:50px;
+    padding-bottom: 50px;
+}
+
+#heading-2{
+    font-weight: 700;
+    color:#777777;
+    font-size: 19px;
+}
+
+label{
+    font-size: 17px;
+}
+
+span{
+    font-family: monospace;
+    color:#666666;
+    font-size: 15px;
+}
+
+text{
+    font-size:15px;
+    color:#555555
+}
+
+
